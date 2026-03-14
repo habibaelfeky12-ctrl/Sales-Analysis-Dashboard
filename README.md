@@ -1,4 +1,5 @@
 📊 Dashboard Features
+
 🔢 Key KPIs
 
 The dashboard highlights important business metrics:
@@ -14,6 +15,7 @@ Total Status Records: 39
 These KPIs provide a quick overview of overall business performance.
 
 📈 Visual Insights
+
 🌍 Top 10 Countries by Sales
 
 Displays the top countries contributing to revenue.
